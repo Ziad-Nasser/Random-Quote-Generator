@@ -1,0 +1,35 @@
+.quote-content {
+  letter-spacing: 1px;
+  padding: 10px;
+}
+.quote-title p {
+  color: #eeeeee;
+  font-size: 18px;
+}
+
+.box-style {
+  box-shadow: rgb(0, 0, 0) 0px 20px 35px -10px;
+}
+
+#display {
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 60px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
+
+#quoteText {
+  font-style: italic;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 900;
+  font-size: 70px;
+}
